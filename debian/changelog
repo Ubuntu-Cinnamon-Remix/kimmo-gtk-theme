@@ -1,6 +1,9 @@
 kimmo-gtk-theme (0.3-1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
+  * Bump standards-version to 4.5.0
+
+  * Found copy of exact theme inside of theme files, removed
 
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 12:52:50 -0400
 
