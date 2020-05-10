@@ -4,7 +4,14 @@ Source: https://github.com/ubuntucinnamon/kimmo-gtk-theme/
 
 Files: *
 Copyright:
- 2019 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+ 2019 - 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
+License: GPL-3+
+
+Files: usr/share/themes/Kimmo-Black-Numix/*,
+ usr/share/themes/Kimmo-RX-Arc/*,
+ usr/share/themes/Kimmo-RX-Numix/*
+Copyright:
+ 2020 Ínitu Castilhos
 License: GPL-3+
 
 Files: debian/*

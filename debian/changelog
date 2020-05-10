@@ -1,3 +1,10 @@
+kimmo-gtk-theme (0.4-1) groovy; urgency=medium
+
+  * Add the new RX and Black Numix themes!
+  * Add VCS files
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 09 May 2020 20:52:55 -0400
+
 kimmo-gtk-theme (0.3-1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
