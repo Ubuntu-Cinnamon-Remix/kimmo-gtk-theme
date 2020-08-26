@@ -1,34 +1,40 @@
+kimmo-gtk-theme (20.10-1) groovy; urgency=medium
+
+  * Groovy rebuild for Feature Freeze
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 12:51:09 -0400
+
 kimmo-gtk-theme (0.4-1) groovy; urgency=medium
 
   * Add the new RX and Black Numix themes!
   * Add VCS files
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 09 May 2020 20:52:55 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 09 May 2020 20:52:55 -0400
 
 kimmo-gtk-theme (0.3-1) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
   * Bump standards-version to 4.5.0
 
-  * Found copy of exact theme inside of theme files, removed
+  * Found copy of exact theme insiitzswirlz2020@outlook.com of theme files, removed
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 12:52:50 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 12:52:50 -0400
 
 kimmo-gtk-theme (0.2-1) focal; urgency=medium
 
   * Welcome to Focal Fossa! Let the fun begin!
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 24 Dec 2019 17:11:43 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 24 Dec 2019 17:11:43 -0500
 
 kimmo-gtk-theme (0.1.0-1) eoan; urgency=medium
 
   * Bump up version due to uploading issue
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 16:29:58 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 16:29:58 -0500
 
 kimmo-gtk-theme (0.1-1) eoan; urgency=medium
 
   [ Joshua Peisach ]
   * Initial release
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 14 Oct 2019 17:38:53 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 14 Oct 2019 17:38:53 -0400
