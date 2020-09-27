@@ -9,16 +9,6 @@ Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/kimmo-gtk-theme
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/kimmo-gtk-theme.git
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix
 
-Package: kimmo-black-gtk-theme-numix
-Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
-Description: Black version of Oomox colored GTK Kimmo Theme from Numix Base
- The Kimmo Black Numix GTK Theme is an Oomox colored version of the
- Kimmo GTK theme built from the Black Numix Theme Base. This theme will
- give you a pure and simple modern Numix theme.
- .
- Currently this package only comes in a dark version.
-
 Package: kimmo-gtk-theme
 Architecture: all
 Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
@@ -29,18 +19,6 @@ Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
  associated icon theme as well: kimmo-icon-theme.
  .
  This package provides you with the Kimmo Light and Dark themes.
-
-Package: kimmo-gtk-theme-all
-Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
-Provides: kimmo-gtk-theme-dark, kimmo-gtk-theme-light
-Description: Mix of Arc/Numix colored Orange to fit your GNOME/Cinnamon desktop
- The Kimmo GTK Theme is a mixture of the Arc/Numix theme,
- colored orange, looking great on all desktops. The theme has an
- associated icon theme as well: kimmo-icon-theme.
- .
- This package provides you with all of the theme variants, including
- RX and the Black Numix theme.
 
 Package: kimmo-gtk-theme-dark
 Architecture: all
@@ -58,33 +36,4 @@ Description: Mix of Arc/Numix Light colored Orange to fit your GNOME/Cinnamon de
  The Kimmo GTK Theme is a mixture of the Arc/Numix Light theme,
  colored orange, looking great on all desktops. This edition contains
  the dark version of this theme. The theme has an associated icon theme
- as well: kimmo-icon-theme-dark.
-
-Package: kimmo-rx-gtk-theme
-Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
-Provides: kimmo-rx-gtk-theme-arc, kimmo-rx-gtk-theme-numix
-Description: Oomox colored GTK Kimmo Theme from Arc and Numix Base
- The Kimmo RX GTK Theme is an Oomox colored version of the original Arc
- and Numix themes the original Kimmo theme is built on. This theme will
- give you a more modern and simpler feel of the original GTK theme.
-
-Package: kimmo-rx-gtk-theme-arc
-Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
-Description: Oomox colored GTK Kimmo Theme from Arc Base
- The Kimmo RX Arc GTK Theme is an Oomox colored version of the original
- Arc theme the original Kimmo theme is built on. This theme will
- give you a more modern and simpler feel of the original GTK theme.
- .
- Currently this package only comes in a light version.
-
-Package: kimmo-rx-gtk-theme-numix
-Architecture: all
-Depends: gnome-themes-extra, gtk2-engines-murrine, gtk2-engines-pixbuf, ${misc:Depends}
-Description: Oomox colored GTK Kimmo Theme from Numix Base
- The Kimmo RX Numix GTK Theme is an Oomox colored version of the
- original Numix theme the original Kimmo theme is built on. This theme
- will give you a more modern and simpler feel of the original GTK theme.
- .
- Currently this package only comes in a light version.
+ as well: kimmo-icon-theme-light.

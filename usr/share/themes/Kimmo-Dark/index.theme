@@ -5,8 +5,8 @@ Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Arc-Darker
-MetacityTheme=Arc-Darker
-IconTheme=gnome
+GtkTheme=Kimmo-Dark
+MetacityTheme=Kimmo-Dark
+IconTheme=Kimmo
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close

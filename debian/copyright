@@ -1,16 +1,10 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: kimmo-gtk-theme
-Source: https://github.com/ubuntucinnamon/kimmo-gtk-theme/
+Source: https://github.com/Ubuntu-Cinnamon-Remix/kimmo-gtk-theme/
 
 Files: *
 Copyright:
- 2019 - 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>
-License: GPL-3+
-
-Files: usr/share/themes/Kimmo-Black-Numix/*,
- usr/share/themes/Kimmo-RX-Arc/*,
- usr/share/themes/Kimmo-RX-Numix/*
-Copyright:
+ 2019 - 2020 Joshua Peisach <ubuntucinnamonremix7@gmail.com>,
  2020 Ínitu Castilhos
 License: GPL-3+
 

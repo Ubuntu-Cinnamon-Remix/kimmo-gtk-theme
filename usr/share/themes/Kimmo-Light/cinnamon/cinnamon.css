@@ -228,10 +228,6 @@
   background-color: rgba(183, 183, 183, 0.5);
   border: 2px solid #d97038; }
 
-stage {
-  font-family: roboto, Noto Sans, sans, sans-serif;
-  font-size: 1em; }
-
 .cinnamon-link {
   color: #0f0ffd;
   font-style: italic; }
@@ -714,18 +710,14 @@ StScrollView StScrollBar {
 
 .grouped-window-list-thumbnail-menu {
   border-radius: 0px;
-  padding: 10px 15px;
   spacing: 3px;
   color: #1a1a1a; }
   .grouped-window-list-thumbnail-menu .item-box {
-    padding: 8px;
-    border-radius: 0px;
-    border: 1px solid rgba(26, 26, 26, 0.32); }
+    border-radius: 0px; }
     .grouped-window-list-thumbnail-menu .item-box:outlined {
       border: 1px solid #d97038; }
     .grouped-window-list-thumbnail-menu .item-box:selected {
       background-color: #dd682a;
-      border: 1px solid #d97038;
       color: #ffffff; }
   .grouped-window-list-thumbnail-menu .thumbnail-box {
     padding: 2px;

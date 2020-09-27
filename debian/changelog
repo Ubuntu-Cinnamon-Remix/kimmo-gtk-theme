@@ -1,3 +1,10 @@
+kimmo-gtk-theme (20.10-2) groovy; urgency=medium
+
+  * Remove RX/Black Themes
+  * Add theme revises for 20.10
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 26 Sep 2020 21:00:30 -0400
+
 kimmo-gtk-theme (20.10-1) groovy; urgency=medium
 
   * Groovy rebuild for Feature Freeze
